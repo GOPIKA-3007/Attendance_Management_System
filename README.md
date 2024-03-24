@@ -23,9 +23,7 @@ Above mentioned are the features of my attached Figma file.
 
 Kindly go through the prototype I have designed by presenting the link I have mentioned below and check out all the features mentioned.
 
-
 https://www.figma.com/file/aELd2jknOtd7krYRxexTXf/Attendance-Tracking-System?type=design&node-id=0%3A1&mode=design&t=6G1P0EFVNfrrU8ly-1
-
 
 R GOPIKA KRISHNAN
 
